@@ -80,11 +80,9 @@ const Footer: React.FC = () => {
             <h4 className="text-lg font-semibold text-white">Services</h4>
             <div className="space-y-2 text-gray-300">
               <div>• Room Service</div>
-              <div>• Concierge</div>
-              <div>• Valet Parking</div>
-              <div>• Spa & Wellness</div>
-              <div>• Business Center</div>
-              <div>• Airport Shuttle</div>
+              <div>• Restaurant</div>
+              <div>• Parking</div>
+              <div>• Bar</div>
             </div>
           </div>
         </div>
