@@ -30,7 +30,7 @@ const Header: React.FC = () => {
           <div className="hidden lg:flex items-center gap-4 text-sm">
             <div className="flex items-center gap-2 text-gray-300">
               <Phone size={16} />
-              <span>+234 803 456 7890</span>
+              <span>+234 803 727 9737</span>
             </div>
             <div className="flex items-center gap-2 text-gray-300">
               <Mail size={16} />
