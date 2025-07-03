@@ -64,8 +64,8 @@ const Footer: React.FC = () => {
               <div className="flex items-center gap-3 text-gray-300">
                 <Clock size={16} className="text-yellow-400" />
                 <div>
-                  <div>Check-in: 2:00 PM</div>
-                  <div>Check-out: 12:00 PM</div>
+                  <div>Check-in: 12:00PM </div>
+                  <div>Check-out: 12:00PM </div>
                 </div>
               </div>
               <div className="text-gray-300">
