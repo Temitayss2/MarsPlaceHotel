@@ -6,8 +6,8 @@ const RoomDetails: React.FC = () => {
   const { rooms } = useBooking();
 
   const roomImages = {
-    VIP: '/public/mars1.png',
-    Regular: '/public/mars.png'
+    VIP: '/mars1.png',
+    Regular: '/mars.png'
   };
 
   const amenities = [
